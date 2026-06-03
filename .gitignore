@@ -1,0 +1,34 @@
+# =========================================================================
+# SECURITY: Never commit credentials or local environment variables
+# =========================================================================
+.env
+.env.*
+*.env
+
+# =========================================================================
+# DATA STORAGE: Prevent massive scraped spreadsheets from bloating Git
+# =========================================================================
+*.xlsx
+*.csv
+
+# =========================================================================
+# PYTHON INTERNAL CACHE & COMPILED FILES
+# =========================================================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# =========================================================================
+# STREAMLIT & BROWSER AUTOMATION (PLAYWRIGHT) RUNTIMES
+# =========================================================================
+.streamlit/config.toml
+.streamlit/secrets.toml
+.pytest_cache/
+.playwright/
