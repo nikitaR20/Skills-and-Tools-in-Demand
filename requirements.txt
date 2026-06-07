@@ -1,6 +1,6 @@
 streamlit
-playwright
 pandas
-openpyxl
-openai
+playwright
+requests
 python-dotenv
+openpyxl
