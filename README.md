@@ -7,6 +7,7 @@ A powerful AI-driven job market intelligence platform that aggregates job postin
 The Job Market Skill & Tools Demand Analyzer helps job seekers, recruiters, career coaches, and workforce planners understand current hiring trends by analyzing real-time job postings across multiple platforms.
 
 Using AI-powered skill extraction and automated job scraping, the tool identifies the technologies, frameworks, certifications, and soft skills that employers are actively seeking.
+<img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/d38bbf47-f7df-48d3-9f45-d6779f75837c" />
 
 ## ✨ Features
 
@@ -36,6 +37,7 @@ Using AI-powered skill extraction and automated job scraping, the tool identifie
   - Real-time scraping progress
   - Skill demand visualizations
   - Platform performance metrics
+<img width="1896" height="911" alt="image" src="https://github.com/user-attachments/assets/2b91a533-a1a2-4876-a4a8-de80519a9ff6" />
 
 - 📥 Excel report generation
   - Job Listings
